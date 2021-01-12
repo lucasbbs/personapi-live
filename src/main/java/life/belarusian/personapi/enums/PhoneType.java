@@ -1,4 +1,4 @@
-package one.digitalinnovation.personapi.enums;
+package life.belarusian.personapi.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

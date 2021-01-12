@@ -1,4 +1,4 @@
-package one.digitalinnovation.personapi.entity;
+package life.belarusian.personapi.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
